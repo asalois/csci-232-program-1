@@ -1,5 +1,5 @@
 class Main{
-    // I had this method in the wrond place. Fixed it
+    // I had this method in the wrong place. Fixed it
     public static void foo(){
         System.out.println("Oh boi, here I come!");
     }

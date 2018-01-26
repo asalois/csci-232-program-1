@@ -1,0 +1,14 @@
+Index: src/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Main.java	(revision f8b283b2cd0eed03cce41a7ecf759264f1a27a1f)
++++ src/Main.java	(revision )
+@@ -1,5 +1,5 @@
+ class Main{
+-    // I had this method in the wrond place. Fixed it
++    // I had this method in the wrong place. Fixed it
+     public static void foo(){
+         System.out.println("Oh boi, here I come!");
+     }
